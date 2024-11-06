@@ -3,10 +3,10 @@
 ---
 
 #### 🚀 About Me
-- 🎓 **Student** at the Faculty of Technical Sciences, Novi Sad, Serbia
-- 🤖 **Machine Learning Enthusiast**
-- 💻 **Backend Developer**
-- 🏆 **Competitive Programmer** with experience in C++
+-  **Student** at the Faculty of Technical Sciences, Novi Sad, Serbia
+-  **Machine Learning Enthusiast**
+-  **Backend Developer**
+-  **Competitive Programmer** with experience in C++
 
 ---
 
@@ -28,5 +28,5 @@ Here are some of the projects I’m most proud of:
 ---
 
 #### 🚀 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/jovan-cvijanović-328464111)
-- 📧 [jovan.cvijanovic2@gmail.com](mailto:jovan.cvijanovic2@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/jovan-cvijanović-328464111)
+-  [jovan.cvijanovic2@gmail.com](mailto:jovan.cvijanovic2@gmail.com)
