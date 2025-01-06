@@ -30,6 +30,6 @@ Here are some of the projects I’m most proud of:
 
 ---
 
-#### 🚀 Let's Connect!
+#### 🚀 Contact
 -  [LinkedIn](https://www.linkedin.com/in/jovan-cvijanović-328464111)
 -  [jovan.cvijanovic2@gmail.com](mailto:jovan.cvijanovic2@gmail.com)
