@@ -25,8 +25,8 @@ Here are some of the projects I’m most proud of:
 - [**dcrnn_implementation**](https://github.com/AStroCvijo/dcrnn_implementation)  
   *Reproduction of "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting"*  
 
-- [**Indexer**](https://github.com/AStroCvijo/Indexer)
-  *A CLI tool for indexing folders and efficiently searching for strings*  
+- [**Indexer**](https://github.com/AStroCvijo/Indexer)<br>
+*A CLI tool for indexing folders and efficiently searching for strings*  
 
 ---
 
