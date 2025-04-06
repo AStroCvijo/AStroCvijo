@@ -14,7 +14,7 @@
 Here are some of the projects I’m most proud of:
 
 - [**react_reproduction**](https://github.com/AStroCvijo/react_reproduction)<br>
-*Reproduction of ICLR 2023 paper "ReAct: Synergizing Reasoning and Aacting in Language Models".*  
+*Reproduction of ICLR 2023 paper "ReAct: Synergizing Reasoning and Acting in Language Models".*  
 
 - [**llm listwise reranker for coderag**](https://github.com/AStroCvijo/llm_listwise_reranker_for_coderag)  
   *Retrieval-Augmented Generation (RAG) system over a code repository for a question-answering task*  
