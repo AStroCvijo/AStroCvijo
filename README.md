@@ -11,7 +11,7 @@
 ---  
 
 ### 🛠️ **Cool Projects I've Built**  
-Check out some of my favorite projects—I had a blast working on these!  
+Check out some of my favorite projects
 
 - [**react_reproduction**](https://github.com/AStroCvijo/react_reproduction)  
 ✨ *Reproduction of ICLR 2023 paper "ReAct: Synergizing Reasoning and Acting in Language Models"*
