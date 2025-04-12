@@ -16,8 +16,11 @@ Check out some of my favorite projects
 - [**react_reproduction**](https://github.com/AStroCvijo/react_reproduction)  
 ✨ *Reproduction of ICLR 2023 paper "ReAct: Synergizing Reasoning and Acting in Language Models"*
 
-- [**llm listwise reranker for coderag**](https://github.com/AStroCvijo/llm_listwise_reranker_for_coderag)  
-🔍 *Retrieval-Augmented Generation (RAG) system over a code repository for a question-answering task*  
+- [**llm_listwise_reranker_for_coderag**](https://github.com/AStroCvijo/llm_listwise_reranker_for_coderag)  
+🔍 *Retrieval-Augmented Generation (RAG) system over a code repository for a question-answering task*
+
+- [**silabus**](https://github.com/LukaNedimovic/silabus)  
+📚 *Syllabus for the organization of computer science competitions in the Republic of Srpska*  
 
 - [**ai_chat_interface_for_dataspell**](https://github.com/AStroCvijo/ai_chat_interface_for_dataspell)  
 💬 *A Python framework that combines data transformation commands with an AI chat interface, allowing users to manipulate Pandas DataFrames and visualize results with Matplotlib.*  
@@ -27,9 +30,6 @@ Check out some of my favorite projects
 
 - [**power_consumption_prediction**](https://github.com/AStroCvijo/power_consumption_prediction)  
 ⚡ *Predicting future power consumption using LSTM, GRU, and Transformer models*  
-
-- [**dcrnn_implementation**](https://github.com/AStroCvijo/dcrnn_implementation)  
-🚦 *Reproduction of "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting"*  
 
 ---  
 
