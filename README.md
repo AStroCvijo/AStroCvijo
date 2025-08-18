@@ -19,6 +19,9 @@ Check out some of my favorite projects
 - [**llm_listwise_reranker_for_coderag**](https://github.com/AStroCvijo/llm_listwise_reranker_for_coderag)  
 🔍 *Retrieval-Augmented Generation (RAG) system over a code repository for a question-answering task*
 
+- [**nasp-key-value-engine**](https://github.com/niksacvorovic/nasp-key-value-engine)  
+🗄️ *Key-Value storage engine built in Go with support for Memtables (B-Tree, SkipList, HashMap), SSTables, segment-based WAL, probabilistic data structures (Bloom Filter, Count-Min Sketch, HyperLogLog, SimHash), LRU Cache, Merkle Trees, cursors, and a CLI interface.* 
+
 - [**silabus**](https://github.com/LukaNedimovic/silabus)  
 📚 *Syllabus for the organization of computer science competitions in the Republic of Srpska*  
 
