@@ -16,7 +16,7 @@ Check out some of my favorite projects
 - [**react_reproduction**](https://github.com/AStroCvijo/react_reproduction)  
 ✨ *Reproduction of ICLR 2023 paper "ReAct: Synergizing Reasoning and Acting in Language Models"*
 
-- [**llm_listwise_reranker_for_coderag**](https://github.com/AStroCvijo/llm_listwise_reranker_for_coderag)  
+- [**coderag**](https://github.com/AStroCvijo/coderag)  
 🔍 *Retrieval-Augmented Generation (RAG) system over a code repository for a question-answering task*
 
 - [**nasp-key-value-engine**](https://github.com/niksacvorovic/nasp-key-value-engine)  
