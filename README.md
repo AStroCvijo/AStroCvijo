@@ -106,13 +106,3 @@
 **Open to collaborations on ML, backend systems, and competitive programming projects!**
 
 </div>
-
----
-
-<div align="center">
-
-*"Building intelligent systems, one algorithm at a time."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=AStroCvijo&color=brightgreen&style=flat-square)
-
-</div>
