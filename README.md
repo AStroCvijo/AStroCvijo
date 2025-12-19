@@ -1,41 +1,118 @@
-### Hey there! 👋 I'm Jovan Cvijanović  
+<div align="center">
 
----  
+# 👋 Hey, I'm Jovan Cvijanović
 
-### 🌟 **About Me**  
-- 🎓 **Student** at the Faculty of Technical Sciences, Novi Sad, Serbia  
-- 🤖 **Machine Learning**
-- 💻 **Backend Developer**
-- 👾**Competitive Programmer**
+### Machine Learning Engineer | Backend Developer | Competitive Programmer
 
----  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-cvijanović-328464111)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.cvijanovic2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AStroCvijo)
 
-### 🛠️ **Cool Projects I've Built**  
-Check out some of my favorite projects
+</div>
 
-- [**react_reproduction**](https://github.com/AStroCvijo/react_reproduction)  
-✨ *Reproduction of ICLR 2023 paper "ReAct: Synergizing Reasoning and Acting in Language Models"*
+---
 
-- [**coderag**](https://github.com/AStroCvijo/coderag)  
-🔍 *Retrieval-Augmented Generation (RAG) system over a code repository for a question-answering task*
+## 🎯 About Me
 
-- [**nasp-key-value-engine**](https://github.com/niksacvorovic/nasp-key-value-engine)  
-🗄️ *Key-Value storage engine built in Go with support for Memtables (B-Tree, SkipList, HashMap), SSTables, segment-based WAL, probabilistic data structures (Bloom Filter, Count-Min Sketch, HyperLogLog, SimHash), LRU Cache, Merkle Trees, cursors, and a CLI interface.* 
+🎓 **Student** at Faculty of Technical Sciences, Novi Sad, Serbia  
+🏆 **Recent Achievement:** Winner of [Garaža Frontier Hackathon](https://garaza.io/) (Dec 2024) - 40-hour regional AI hackathon in Belgrade  
+🎯 **Attended:** [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org/) - Intensive ML research program  
+🚀 Focus: ML Engineering & AI Implementation, Scalable Backend Systems, Competitive Programming
 
-- [**silabus**](https://github.com/LukaNedimovic/silabus)  
-📚 *Syllabus for the organization of computer science competitions in the Republic of Srpska*  
+---
 
-- [**ai_chat_interface_for_dataspell**](https://github.com/AStroCvijo/ai_chat_interface_for_dataspell)  
-💬 *A Python framework that combines data transformation commands with an AI chat interface, allowing users to manipulate Pandas DataFrames and visualize results with Matplotlib.*  
+## 🚀 Featured Projects
 
-- [**detection_of_formatting_style**](https://github.com/AStroCvijo/detection_of_formatting_style)  
-📜 *A reproduction of the paper "Learning to Format Coq Code Using Language Models"*  
+### 🤖 [ReAct Reproduction](https://github.com/AStroCvijo/react_reproduction)
+> Faithful reproduction of ICLR 2023's "ReAct: Synergizing Reasoning and Acting in Language Models"
 
-- [**power_consumption_prediction**](https://github.com/AStroCvijo/power_consumption_prediction)  
-⚡ *Predicting future power consumption using LSTM, GRU, and Transformer models*  
+**Tech:** Python, Transformers, LangChain  
+**Highlights:** Implemented reasoning-action synergy in LLMs, demonstrating state-of-the-art prompting techniques
 
----  
+---
 
-### 📬 **Contact**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jovan-cvijanović-328464111)  
-- 📧 [jovan.cvijanovic2@gmail.com](mailto:jovan.cvijanovic2@gmail.com)  
+### 🔍 [CodeRAG](https://github.com/AStroCvijo/coderag)
+> Intelligent code repository Q&A system using Retrieval-Augmented Generation
+
+**Tech:** Python, Vector Databases, Embeddings, RAG Pipeline  
+**Highlights:** Semantic code search, context-aware responses, repository analysis
+
+---
+
+### 🗄️ [NASP Key-Value Engine](https://github.com/niksacvorovic/nasp-key-value-engine)
+> Production-grade storage engine built from scratch in Go
+
+**Tech:** Go, Data Structures, Systems Programming  
+**Features:**
+- Multiple indexing: B-Tree, SkipList, HashMap
+- SSTable implementation with compaction
+- WAL with segment-based recovery
+- Probabilistic structures: Bloom Filter, Count-Min Sketch, HyperLogLog, SimHash
+- LRU Cache, Merkle Trees, CLI interface
+
+---
+
+### 📚 [Silabus](https://github.com/LukaNedimovic/silabus)
+> Comprehensive framework for CS competition organization in Republic of Srpska
+
+**Tech:** Documentation, Curriculum Design  
+**Impact:** Standardized competition structure and educational materials
+
+---
+
+### 💬 [AI Chat Interface for DataSpell](https://github.com/AStroCvijo/ai_chat_interface_for_dataspell)
+> Natural language interface for data analysis and visualization
+
+**Tech:** Python, Pandas, Matplotlib, NLP  
+**Highlights:** Transform DataFrames using conversational commands, automated plotting
+
+---
+
+### 📜 [Coq Formatting Style Detection](https://github.com/AStroCvijo/detection_of_formatting_style)
+> ML-based code formatting style learning and reproduction
+
+**Tech:** Python, Language Models, Code Analysis  
+**Research:** Reproduction of "Learning to Format Coq Code Using Language Models"
+
+---
+
+### ⚡ [Power Consumption Prediction](https://github.com/AStroCvijo/power_consumption_prediction)
+> Time-series forecasting with deep learning architectures
+
+**Tech:** Python, PyTorch, LSTM, GRU, Transformers  
+**Models:** Comparative analysis of sequential models for energy prediction
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AStroCvijo&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AStroCvijo&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovan-cvijanović-328464111)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jovan.cvijanovic2@gmail.com)
+
+**Open to collaborations on ML, backend systems, and competitive programming projects!**
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems, one algorithm at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AStroCvijo&color=brightgreen&style=flat-square)
+
+</div>
