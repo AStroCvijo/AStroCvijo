@@ -4,7 +4,7 @@
 
 ### Machine Learning Engineer | Backend Developer | Competitive Programmer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-cvijanović-328464111)
+[![LinkedIn](https://hack.garaza.org/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.cvijanovic2@gmail.com)
 
 </div>
