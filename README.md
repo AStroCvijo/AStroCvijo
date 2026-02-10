@@ -1,8 +1,11 @@
 <div align="center">
+
 # 👋 Hey, I'm Jovan Cvijanović
 ### Machine Learning Engineer | Backend Developer | Competitive Programmer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-cvijanović-328464111)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-cvijanovic-328464111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.cvijanovic2@gmail.com)
+
 </div>
 
 ---
@@ -71,8 +74,10 @@
 
 ## 📫 Let's Connect
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovan-cvijanović-328464111)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovan-cvijanovic-328464111)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jovan.cvijanovic2@gmail.com)
 
 **Open to collaborations on ML, backend systems, and competitive programming projects!**
+
 </div>
