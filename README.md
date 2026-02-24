@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 🎓 **Student** at Faculty of Technical Sciences, Novi Sad, Serbia  
-🏆 **Recent Achievement:** Winner of [Garaža Frontier Hackathon](https://hack.garaza.org/) (Dec 2024) - 40-hour regional AI hackathon in Belgrade  
+🏆 **Recent Achievement:** Winner of [Garaža Frontier Hackathon](https://hack.garaza.org/) (Dec 2025) - 40-hour regional AI hackathon in Belgrade  
 🎯 **Attended:** [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org/) - Intensive ML research program  
 🚀 Focus: ML Engineering & AI Implementation, Scalable Backend Systems, Competitive Programming
 
