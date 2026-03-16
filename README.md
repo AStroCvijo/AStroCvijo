@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 ML & AI Projects
+## 🛠️ Interesting projects
 
 ### 📐 [word2vec](https://github.com/AStroCvijo/word2vec)
 > CBOW & Skip-Gram with Negative Sampling from scratch in pure NumPy
@@ -46,8 +46,6 @@
 
 ---
 
-## 🛠️ Software Engineering Projects
-
 ### 🚗 [Lavugio — Ride-Sharing Platform](https://github.com/kzi-nastava/mrs-team28-Lavugio)
 > Full-stack Uber-like application with real-time tracking
 
@@ -61,15 +59,6 @@
 
 **Tech:** Python, Django, D3.js, JavaScript  
 **Highlights:** Plugin architecture for data sources (JSON, XML) and visualizer backends. Multiple views (Main, Tree, Bird/minimap), CLI terminal for graph CRUD.
-
----
-
-## 🏅 Competitive Programming
-
-### 📚 [Silabus](https://github.com/LukaNedimovic/silabus)
-> Training syllabus for national-level competitors in Bosnia and Herzegovina
-
-Co-authoring curriculum and designing algorithmic problems for regional competitions.
 
 ---
 
