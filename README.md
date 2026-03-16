@@ -1,83 +1,113 @@
 <div align="center">
 
 # 👋 Hey, I'm Jovan Cvijanović
-### Machine Learning Engineer | Backend Developer | Competitive Programmer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovan-cvijanovic-328464111)
+### Machine Learning · Software Engineering · Competitive Programming
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovancvijanovic)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.cvijanovic2@gmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://astrocvijo.github.io/cv/cv.pdf)
 
 </div>
 
 ---
 
 ## 🎯 About Me
-🎓 **Student** at Faculty of Technical Sciences, Novi Sad, Serbia  
-🏆 **Recent Achievement:** Winner of [Garaža Frontier Hackathon](https://hack.garaza.org/) (Dec 2025) - 40-hour regional AI hackathon in Belgrade  
-🎯 **Attended:** [Mediterranean Machine Learning Summer School (M2L)](https://www.m2lschool.org/) - Intensive ML research program  
-🚀 Focus: ML Engineering & AI Implementation, Scalable Backend Systems, Competitive Programming
+
+🎓 **3rd-year Software Engineering student** at Faculty of Technical Sciences, Novi Sad, Serbia  
+🏆 **1st place** at [Garaža Frontier Hackathon](https://hack.garaza.org/) 2025 · **1st place** at National Olympiad in Informatics 2022  
+🌊 **Attended** [Mediterranean ML Summer School (M2L)](https://www.m2lschool.org/) 2025
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 ML & AI Projects
 
-### 🏠 [Interia - AI-Powered Room Redesign](https://github.com/deepgrad/epiplar.io)
-> Transform any room with AI-powered 3D reconstruction and intelligent furniture replacement
-**Tech:** React 18, TypeScript, Three.js, FastAPI, Depth Anything V3, YOLOv8, Google Gemini  
-**Highlights:**
-- Video-to-3D reconstruction with real-time depth estimation
-- AI furniture detection and semantic product search
-- Ultra-realistic furniture replacement with 45,000+ product catalog
-- Multi-view depth processing with spatial consistency
-- Docker containerization with NVIDIA CUDA GPU support
+### 📐 [word2vec](https://github.com/AStroCvijo/word2vec)
+> CBOW & Skip-Gram with Negative Sampling from scratch in pure NumPy
+
+**Tech:** Python, NumPy  
+**Results:** 44.2% Google analogy accuracy (CBOW), WordSim-353 ρ = 0.731 (SGNS) on text8. Includes interactive REPL, W&B sweeps, pretrained embeddings, and pytest suite.
 
 ---
 
-### 🤖 [ReAct Reproduction](https://github.com/AStroCvijo/react_reproduction)
-> Faithful reproduction of ICLR 2023's "ReAct: Synergizing Reasoning and Acting in Language Models"
-**Tech:** Python, Transformers, LangChain  
-**Highlights:** Implemented reasoning-action synergy in LLMs, demonstrating state-of-the-art prompting techniques
+### 🏠 [Interia — AI-Powered Room Redesign](https://github.com/deepgrad/epiplar.io)
+> 1st place, Garaža Frontier Hackathon — transform room videos into 3D scenes and swap furniture with AI
+
+**Tech:** React, FastAPI, Three.js, Depth Anything V3, YOLOv8, Google Gemini  
+**Highlights:** Video-to-3D point cloud reconstruction, AI furniture detection with semantic product search, photorealistic replacement generation.
 
 ---
 
 ### 🔍 [CodeRAG](https://github.com/AStroCvijo/coderag)
-> Intelligent code repository Q&A system using Retrieval-Augmented Generation
-**Tech:** Python, Vector Databases, Embeddings, RAG Pipeline  
-**Highlights:** Semantic code search, context-aware responses, repository analysis
+> Agentic RAG pipeline for codebase Q&A
+
+**Tech:** Python, LangChain, OpenAI, Hugging Face  
+**Highlights:** Improved Recall@10 from 63.7% → 88.8%. Full generation graph with retrieval grading, query rewriting, hallucination detection, and out-of-scope handling.
+
+---
+
+### 🤖 [ReAct Reproduction](https://github.com/AStroCvijo/react_reproduction)
+> Reproduction of ICLR 2023's "ReAct: Synergizing Reasoning and Acting in Language Models"
+
+**Tech:** Python, LangChain  
+**Highlights:** Implemented Standard, CoT, Act, and ReAct methods across FEVER, HotpotQA, ALFWorld, and WebShop. Validated ReAct outperforms Act on all benchmarks.
+
+---
+
+### 📜 [Detection of Code Formatting Style](https://github.com/AStroCvijo/detection_of_formatting_style)
+> Reproduction of "Learning to Format Coq Code Using Language Models"
+
+**Tech:** PyTorch, Transformer, LSTM, N-grams  
+**Highlights:** Compared Transformer, LSTM, and n-gram models on code formatting prediction with full preprocessing pipeline.
+
+---
+
+## 🛠️ Software Engineering Projects
+
+### 🚗 [Lavugio — Ride-Sharing Platform](https://github.com/kzi-nastava/mrs-team28-Lavugio)
+> Full-stack Uber-like application with real-time tracking
+
+**Tech:** Java, Spring Boot, Angular, PostgreSQL, WebSocket, Leaflet, JWT  
+**Highlights:** Live map tracking, WebSocket chat, JWT auth with role-based access, Android companion app, E2E tests with Selenium.
+
+---
+
+### 📊 [gviz — Graph Visualizer](https://github.com/AStroCvijo/gviz)
+> Interactive web app for graph visualization and manipulation
+
+**Tech:** Python, Django, D3.js, JavaScript  
+**Highlights:** Plugin architecture for data sources (JSON, XML) and visualizer backends. Multiple views (Main, Tree, Bird/minimap), CLI terminal for graph CRUD.
+
+---
+
+### 📚 [LangLang — Language Course Management](https://github.com/kzi-nastava/course-project-usi-2025-team-1)
+> Desktop app for managing language courses and exams
+
+**Tech:** C#, .NET 8, WPF, GitHub Actions  
+**Highlights:** Reflection-based JSON/CSV parsing, generic CRUD interfaces, SOLID architecture, PR-based workflow.
 
 ---
 
 ### 🗄️ [NASP Key-Value Engine](https://github.com/niksacvorovic/nasp-key-value-engine)
-> Production-grade storage engine built from scratch in Go
-**Tech:** Go, Data Structures, Systems Programming  
-**Features:**
-- Multiple indexing: B-Tree, SkipList, HashMap
-- SSTable implementation with compaction
-- WAL with segment-based recovery
-- Probabilistic structures: Bloom Filter, Count-Min Sketch, HyperLogLog, SimHash
-- LRU Cache, Merkle Trees, CLI interface
+> Storage engine built from scratch in Go
+
+**Tech:** Go, LSM Tree, Probabilistic Data Structures  
+**Highlights:** Configurable memtables (B-Tree, SkipList, HashMap), SSTables with compaction, WAL, Bloom filters, Merkle trees, LRU cache.
 
 ---
+
+## 🏅 Competitive Programming
 
 ### 📚 [Silabus](https://github.com/LukaNedimovic/silabus)
-> Comprehensive framework for CS competition organization in Republic of Srpska
-**Tech:** Documentation, Curriculum Design  
-**Impact:** Standardized competition structure and educational materials
+> Training syllabus for national-level competitors in Bosnia and Herzegovina
+
+Co-authoring curriculum and designing algorithmic problems for regional competitions.
 
 ---
 
-### 📜 [Coq Formatting Style Detection](https://github.com/AStroCvijo/detection_of_formatting_style)
-> ML-based code formatting style learning and reproduction
-**Tech:** Python, Language Models, Code Analysis  
-**Research:** Reproduction of "Learning to Format Coq Code Using Language Models"
-
----
-
-## 📫 Let's Connect
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovan-cvijanovic-328464111)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovancvijanovic)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jovan.cvijanovic2@gmail.com)
-
-**Open to collaborations on ML, backend systems, and competitive programming projects!**
 
 </div>
