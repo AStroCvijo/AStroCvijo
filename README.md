@@ -30,7 +30,7 @@
 
 ---
 
-### 🏠 [Interia — AI-Powered Room Redesign](https://github.com/deepgrad/epiplar.io)
+### 🏠 [Interia - AI-Powered Room Redesign](https://github.com/deepgrad/epiplar.io)
 > 1st place, Garaža Frontier Hackathon — transform room videos into 3D scenes and swap furniture with AI
 
 **Tech:** React, FastAPI, Three.js, Depth Anything V3, YOLOv8, Google Gemini  
@@ -43,22 +43,6 @@
 
 **Tech:** Python, LangChain, OpenAI, Hugging Face  
 **Highlights:** Improved Recall@10 from 63.7% → 88.8%. Full generation graph with retrieval grading, query rewriting, hallucination detection, and out-of-scope handling.
-
----
-
-### 🤖 [ReAct Reproduction](https://github.com/AStroCvijo/react_reproduction)
-> Reproduction of ICLR 2023's "ReAct: Synergizing Reasoning and Acting in Language Models"
-
-**Tech:** Python, LangChain  
-**Highlights:** Implemented Standard, CoT, Act, and ReAct methods across FEVER, HotpotQA, ALFWorld, and WebShop. Validated ReAct outperforms Act on all benchmarks.
-
----
-
-### 📜 [Detection of Code Formatting Style](https://github.com/AStroCvijo/detection_of_formatting_style)
-> Reproduction of "Learning to Format Coq Code Using Language Models"
-
-**Tech:** PyTorch, Transformer, LSTM, N-grams  
-**Highlights:** Compared Transformer, LSTM, and n-gram models on code formatting prediction with full preprocessing pipeline.
 
 ---
 
@@ -77,22 +61,6 @@
 
 **Tech:** Python, Django, D3.js, JavaScript  
 **Highlights:** Plugin architecture for data sources (JSON, XML) and visualizer backends. Multiple views (Main, Tree, Bird/minimap), CLI terminal for graph CRUD.
-
----
-
-### 📚 [LangLang — Language Course Management](https://github.com/kzi-nastava/course-project-usi-2025-team-1)
-> Desktop app for managing language courses and exams
-
-**Tech:** C#, .NET 8, WPF, GitHub Actions  
-**Highlights:** Reflection-based JSON/CSV parsing, generic CRUD interfaces, SOLID architecture, PR-based workflow.
-
----
-
-### 🗄️ [NASP Key-Value Engine](https://github.com/niksacvorovic/nasp-key-value-engine)
-> Storage engine built from scratch in Go
-
-**Tech:** Go, LSM Tree, Probabilistic Data Structures  
-**Highlights:** Configurable memtables (B-Tree, SkipList, HashMap), SSTables with compaction, WAL, Bloom filters, Merkle trees, LRU cache.
 
 ---
 
