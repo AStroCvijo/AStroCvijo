@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Jovan Cvijanović
 
-### Machine Learning · Software Engineering · Competitive Programming
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovancvijanovic)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovan.cvijanovic2@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://astrocvijo.github.io/cv/cv.pdf)
