@@ -21,7 +21,7 @@
 
 ## 🛠️ Interesting projects
 
-### 📐 [cyclops — Monocular Depth Estimation Study](https://github.com/AStroCvijo/cyclops)
+### 👁️ [cyclops — Monocular Depth Estimation Study](https://github.com/AStroCvijo/cyclops)
 > Comparative analysis of monocular depth estimation methods, with robustness evaluation under degraded conditions
 
 **Tech:** Python, PyTorch, Stable Diffusion, I-JEPA, DepthAnything V2  
