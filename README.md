@@ -12,7 +12,8 @@
 
 ## 🎯 About Me
 
-🎓 **3rd-year Software Engineering student** at Faculty of Technical Sciences, Novi Sad, Serbia  
+💼 **Applied Scientist** at Microsoft  
+🎓 **Software Engineering student** at Faculty of Technical Sciences, Novi Sad, Serbia  
 🏆 **1st place** at [Garaža Frontier Hackathon](https://hack.garaza.org/) 2025 · **1st place** at National Olympiad in Informatics 2022  
 🌊 **Attended** [Mediterranean ML Summer School (M2L)](https://www.m2lschool.org/) 2025
 
@@ -20,15 +21,23 @@
 
 ## 🛠️ Interesting projects
 
-### 📐 [word2vec](https://github.com/AStroCvijo/word2vec)
-> CBOW & Skip-Gram with Negative Sampling from scratch in pure NumPy
+### 📐 [cyclops — Monocular Depth Estimation Study](https://github.com/AStroCvijo/cyclops)
+> Comparative analysis of monocular depth estimation methods, with robustness evaluation under degraded conditions
 
-**Tech:** Python, NumPy  
-**Results:** 44.2% Google analogy accuracy (CBOW), WordSim-353 ρ = 0.731 (SGNS) on text8. Includes interactive REPL, W&B sweeps, pretrained embeddings, and pytest suite.
+**Tech:** Python, PyTorch, Stable Diffusion, I-JEPA, DepthAnything V2  
+**Highlights:** Compared five approaches on NYU Depth V2 (ResNet-50 baseline, frozen SD & I-JEPA features, their fusion, and DepthAnything V2 as SOTA reference), and measured robustness under fog, blur, and low-light.
 
 ---
 
-### 🏠 [Interia - AI-Powered Room Redesign](https://github.com/deepgrad/epiplar.io)
+### 🔍 RAG Systems — Research to Deployment
+> From codebase Q&A experiments to a deployed personal RAG assistant
+
+**Tech:** Python, LangChain, PostgreSQL, pgvector, Ollama, FastAPI  
+**Highlights:** [**CodeRAG**](https://github.com/AStroCvijo/coderag) — improved Recall@10 from 63.7% → 88.8% via LLM code summaries, enriched metadata, and chunking/embedding experiments. [**Otto RAG**](https://github.com/AStroCvijo/otto_rag) — productionized those learnings into a deployed RAG over Gmail & Google Drive with per-user isolation and OAuth2. Shared agentic pipeline with query rewriting, relevance grading, and hallucination checking.
+
+---
+
+### 🏠 [Interia — AI-Powered Room Redesign](https://github.com/deepgrad/epiplar.io)
 > 1st place, Garaža Frontier Hackathon — transform room videos into 3D scenes and swap furniture with AI
 
 **Tech:** React, FastAPI, Three.js, Depth Anything V3, YOLOv8, Google Gemini  
@@ -36,19 +45,11 @@
 
 ---
 
-### 🔍 [CodeRAG](https://github.com/AStroCvijo/coderag)
-> Agentic RAG pipeline for codebase Q&A
+### 🔤 [word2vec](https://github.com/AStroCvijo/word2vec)
+> CBOW & Skip-Gram with Negative Sampling from scratch in pure NumPy
 
-**Tech:** Python, LangChain, OpenAI, Hugging Face  
-**Highlights:** Improved Recall@10 from 63.7% → 88.8%. Full generation graph with retrieval grading, query rewriting, hallucination detection, and out-of-scope handling.
-
----
-
-### 🚗 [Lavugio — Ride-Sharing Platform](https://github.com/kzi-nastava/mrs-team28-Lavugio)
-> Full-stack Uber-like application with real-time tracking
-
-**Tech:** Java, Spring Boot, Angular, PostgreSQL, WebSocket, Leaflet, JWT  
-**Highlights:** Live map tracking, WebSocket chat, JWT auth with role-based access, Android companion app, E2E tests with Selenium.
+**Tech:** Python, NumPy  
+**Results:** 44.2% Google analogy accuracy (CBOW), WordSim-353 ρ = 0.731 (SGNS) on text8. Includes interactive REPL, W&B sweeps, pretrained embeddings, and pytest suite.
 
 ---
 
@@ -57,6 +58,14 @@
 
 **Tech:** Python, Django, D3.js, JavaScript  
 **Highlights:** Plugin architecture for data sources (JSON, XML) and visualizer backends. Multiple views (Main, Tree, Bird/minimap), CLI terminal for graph CRUD.
+
+---
+
+### 🚗 [Lavugio — Ride-Sharing Platform](https://github.com/kzi-nastava/mrs-team28-Lavugio)
+> Full-stack Uber-like application with real-time tracking
+
+**Tech:** Java, Spring Boot, Angular, PostgreSQL, WebSocket, Leaflet, JWT  
+**Highlights:** Live map tracking, WebSocket chat, JWT auth with role-based access, Android companion app, E2E tests with Selenium.
 
 ---
 
